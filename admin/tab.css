@@ -1,0 +1,338 @@
+.mpp_clear
+{
+  clear: both;
+}
+
+.mpp_ui_search
+{
+  padding: 20px;
+}
+
+.mpp_ui_detail, .mpp_ui_image
+{
+  padding: 20px;
+  display: none;
+}
+
+.mpp_search_form
+{
+  float: left;
+}
+
+.mpp_search_sync
+{
+  margin-left: 5px !important;
+}
+
+.mpp_search_sync_label
+{
+  vertical-align: baseline;
+}
+
+.mpp_paging
+{
+  padding-top: 7px;
+  float: right;
+}
+
+.mpp_page
+{
+  padding: 3px;
+  margin: 2px;
+  text-decoration: none;
+}
+
+.mpp_page:hover
+{
+  text-decoration: none;
+  color: #ffffff;
+  background-color: #21759b;
+}
+
+.mpp_page_delimiter
+{
+  padding: 3px;
+  margin: 2px;
+}
+
+.mpp_page_selected
+{
+  color: #ffffff;
+  background-color: #21759b;
+  padding: 3px;
+  margin: 2px;
+}
+
+.mpp_paging_bottom
+{
+  margin-top: 10px;
+}
+
+
+.mpp_search_input
+{
+  width: 400px;
+  font-size: 14px;
+  height: 30px;
+}
+
+.mpp_search_input::-webkit-input-placeholder {
+   padding-top: 1px;
+}
+
+.mpp_search_input:-moz-placeholder {
+   padding-top: 1px;
+}
+
+.mpp_search_input::-moz-placeholder {
+   padding-top: 1px;
+}
+
+.mpp_search_input:-ms-input-placeholder {
+   padding-top: 1px;
+}
+
+.mpp_search_button
+{
+  height: 29px !important;
+  font-size: 14px !important;
+  position: relative;
+  padding-top: 2px !important;
+}
+
+.mpp_search_filter {
+  margin-top: 8px;
+  margin-bottom: 8px;
+  margin-left: 15px;
+  float: left;
+  padding-top: 6px;
+}
+
+.mpp_search_filter label {
+  margin-right: 15px;
+}
+
+.mpp_sort_block {
+  margin-top: 8px;
+  margin-bottom: 8px;
+  margin-left: 5px;
+  float: left;
+}
+
+.mpp_sort_block label {
+  margin-right: 5px;
+}
+
+#mpp_sort {
+  height: 25px !important;
+}
+
+
+.mpp_loader
+{
+  /* display: none; */
+}
+
+.mpp_nb_images
+{
+  padding: 5px;
+  color: #777777;
+}
+
+
+
+.mpp_categories_title
+{
+  margin-top: 20px;
+}
+
+.mpp_categories
+{
+  padding-left: 10px;
+}
+
+ul.mpp_categories_main li
+{
+  font-size: 13pt;
+  display: block;
+  float: left;
+  width: 170px;
+  min-height: 20px;
+  padding: 5px;
+}
+
+ul.mpp_categories_main li a
+{
+  text-decoration: none;
+}
+
+ul.mpp_categories_main li a:hover
+{
+  text-decoration: underline;
+}
+
+
+.mpp_images
+{
+  margin-top: 5px;
+}
+
+.mpp_image
+{
+  float: left;
+  margin: 5px;
+  min-width: 135px;
+  height: 130px;
+  border: #cccccc 1px solid;
+  text-align: center;
+  padding: 5px;
+}
+
+.mpp_image a
+{
+  text-decoration: none;
+}
+
+.mpp_image_div
+{
+  width: 135px;
+  height: 118px;
+  overflow: hidden;
+}
+
+.mpp_image_img
+{
+  margin: auto auto;
+}
+
+.mpp_image_title
+{
+  text-align: left;
+  color: #777777;
+}
+
+.mpp_image_detail
+{
+}
+
+
+.mpp_detail
+{
+  margin-top: 20px;
+}
+
+.mpp_detail_header
+{
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+
+.mpp_detail_image
+{
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  padding: 5px;
+  border: #cccccc 1px solid;
+}
+
+.mpp_detail_licenses
+{
+  float: left;
+}
+
+.mpp_detail_licenses table
+{
+  width: 450px;
+}
+
+.mpp_detail_licenses table td, .mpp_detail_licenses table th
+{
+  padding: 5px;
+}
+
+.mpp_detail_licenses table tbody tr
+{
+  cursor: pointer;
+}
+
+.mpp_detail_licenses table thead tr
+{
+  background: #efefef;
+}
+
+.mpp_detail_licenses table tbody tr:nth-child(even)
+{
+  background: #efefef;
+}
+
+.mpp_license_text
+{
+  width: 480px;
+  height: 330px;
+  margin: 5px;
+  padding: 5px;
+  overflow: auto;
+  border: #cccccc 1px solid;
+}
+
+.mpp_license_buttons
+{
+  text-align: center;
+}
+
+.mpp_license_button
+{
+  margin: 10px !important;
+  margin-bottom: 0px !important;
+}
+
+.mpp_detail_error_message
+{
+  text-align: center;
+  color: #ff0000;
+}
+
+.mpp_license_subscription {
+  display: none;
+}
+
+.mpp_buy_method {
+  margin-bottom: 5px;
+}
+
+.mpp_buy_method label {
+  padding: 5px;
+}
+
+.mpp_offer {
+  padding: 5px;
+  margin-bottom: 5px;
+  background-color: #ffffe0;
+  border-color: #e6db55;
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+  border-width: 1px;
+  border-style: solid;
+}
+
+.mpp_offer_text {
+  float: left;
+  width: 98%;
+}
+
+.mpp_offer_close {
+  float: right;
+  font-weight: bold;
+  color: #888888;
+  right: 20px;
+  cursor: pointer;
+}
+
+.mpp_offer_close:hover {
+  color: #000000;
+}
+
+.button-secondary.mpp_orange_button {
+  background-image: linear-gradient(to bottom,#fefefe,#EDC9AF) !important;
+}

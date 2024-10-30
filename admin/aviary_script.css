@@ -1,0 +1,17 @@
+/*
+.media-modal-backdrop {
+  z-index: 880 !important;
+}
+
+.media-modal {
+  z-index: 900 !important;
+}
+*/
+
+#avpw_fullscreen_bg {
+	z-index: 9999998 !important;
+}
+
+#avpw_controls {
+	z-index: 9999999 !important;
+}

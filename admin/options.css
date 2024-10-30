@@ -1,0 +1,187 @@
+.icon32-mpp
+{
+  background-image: url('images/icon.png') !important;
+  background-position: 0 0 !important;
+  display: block;
+  width: 32px;
+  height: 32px;
+  float: left;
+  margin-right: 15px;
+  margin-top: 7px;
+}
+
+.mpp_closed .inside
+{
+  display: none;
+}
+
+.mpp_postbox h3.hndle img
+{
+  margin-right: 8px;
+  position: relative;
+  top: 2px;
+}
+
+.hndle
+{
+  cursor: default !important;
+}
+
+.mpp_save_area
+{
+  float: right;
+}
+
+.mpp_save_loader
+{
+  width: 15px;
+  height: 15px;
+  margin-right: 3px;
+}
+
+.mpp_save_loader img
+{
+  display: none;
+  position: relative;
+  top: 3px;
+}
+
+.mpp_image_caption_label
+{
+  margin-left: 15px;
+  margin-bottom: 5px;
+}
+
+.mpp_login_correct
+{
+  background-color: #6FF976 !important;
+}
+
+.mpp_login_incorrect
+{
+  background-color: #F96F71 !important;
+}
+
+.mpp_clear
+{
+  clear: both;
+}
+
+.mpp_hidden
+{
+  display: none;
+}
+
+.mpp_login_info
+{
+  /* background-color: #efefef; */
+  /*border: #aaaaaa 1px solid;  */
+}
+
+.mpp_login_info_text
+{
+  padding-top: 3px;
+  float: left;
+  /* width: 90%; */
+}
+
+.mpp_logout_button
+{
+  float: right;
+}
+
+.mpp_image_caption_group
+{
+  margin-bottom: 6px;
+}
+
+.mpp_download_backup_area {
+  text-align: right;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.mpp_backup_options {
+  margin: 5px;
+}
+
+.mpp_backup_list {
+  overflow: auto;
+  height: 150px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border: #cccccc 1px solid;
+}
+
+.mpp_backup_list_item {
+  padding: 5px;
+  border-bottom: #cccccc 1px solid;
+}
+
+.mpp_backup_list_item:nth-child(2) {
+  background-color: #eeeeee;
+}
+
+.mpp_backup_list_item:hover {
+  background-color: #ffffff;
+}
+
+.mpp_download_backup {
+  float: right;
+}
+
+.mpp_download_text {
+  float: left;
+  padding-top: 4px;
+}
+
+.mpp_download_backup_loader {
+  width: 15px;
+  height: 15px;
+  margin-left: 3px;
+  display: none;
+}
+
+.mpp_download_backup_loader img {
+  position: relative;
+  top: 3px;
+}
+
+.mpp_offer {
+  padding: 5px;
+  margin-bottom: 5px;
+  background-color: #ffffe0;
+  border-color: #e6db55;
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+  border-width: 1px;
+  border-style: solid;
+}
+
+.mpp_offer_text {
+  float: left;
+  width: 98%;
+}
+
+.mpp_offer_close {
+  float: right;
+  font-weight: bold;
+  color: #888888;
+  right: 20px;
+  cursor: pointer;
+}
+
+.mpp_offer_close:hover {
+  color: #000000;
+}
+
+.mpp_settings_saved {
+  font-weight: bold;
+  display: none;
+  margin-right: 5px;
+}
+
+.mpp_show_backup_options, .mpp_hide_backup_options {
+  position: relative;
+  top: 5px;
+}

@@ -1,0 +1,310 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Microstock Photo Plugin 3.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-01 04:28+0100\n"
+"PO-Revision-Date: 2013-05-01 04:28+0100\n"
+"Last-Translator: Martin Sudolsky <martin@sudolsky.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__;esc_html_e;esc_attr_e;esc_html__;esc_attr__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../microstock-photo-plugin.php:51
+#: ../microstock-photo-plugin.php:52
+msgid "Buy this photo"
+msgstr ""
+
+#: ../microstock-photo-plugin.php:148
+msgid "Microstock Photo"
+msgstr ""
+
+#: ../microstock-photo-plugin.php:155
+msgid "Settings"
+msgstr ""
+
+#: ../microstock-photo-plugin.php:181
+#: ../microstock-photo-plugin.php:204
+#: ../microstock-photo-plugin.php:237
+msgid "Cannot send ajax request."
+msgstr ""
+
+#: ../microstock-photo-plugin.php:205
+msgid "Buy"
+msgstr ""
+
+#: ../microstock-photo-plugin.php:206
+msgid "Confirm"
+msgstr ""
+
+#: ../microstock-photo-plugin.php:207
+msgid "Please login"
+msgstr ""
+
+#: ../microstock-photo-plugin.php:208
+msgid "License agreement"
+msgstr ""
+
+#: ../microstock-photo-plugin.php:209
+msgid "Error occured during purchase process."
+msgstr ""
+
+#: ../microstock-photo-plugin.php:285
+#: ../microstock-photo-plugin.php:334
+#: ../microstock-photo-plugin.php:367
+#: ../microstock-photo-plugin.php:421
+#: ../microstock-photo-plugin.php:453
+msgid "Invalid module."
+msgstr ""
+
+#: ../microstock-photo-plugin.php:409
+#, php-format
+msgid "We found %s images."
+msgstr ""
+
+#: ../modules/istockphoto/istockphoto.php:23
+msgid "iStockphoto"
+msgstr ""
+
+#: ../modules/istockphoto/istockphoto.php:303
+msgid "Not enough credits."
+msgstr ""
+
+#: ../modules/istockphoto/istockphoto.php:308
+msgid "File attempting to download is not available."
+msgstr ""
+
+#: ../modules/istockphoto/istockphoto.php:313
+msgid "Size for the file attempting to download is not available."
+msgstr ""
+
+#: ../modules/istockphoto/istockphoto.php:318
+msgid "Error in reading file."
+msgstr ""
+
+#: ../modules/istockphoto/istockphoto.php:323
+msgid "Error in processing your purchase."
+msgstr ""
+
+#: ../modules/istockphoto/istockphoto.php:328
+msgid "Sorry, you are unable to download the requested file with an Extended License."
+msgstr ""
+
+#: ../modules/istockphoto/admin/settings.php:14
+#: ../modules/depositphotos/admin/settings.php:14
+msgid "Enabled"
+msgstr ""
+
+#: ../modules/istockphoto/admin/settings.php:21
+#, php-format
+msgid "Check the iStockphoto Special Offer at at %s"
+msgstr ""
+
+#: ../modules/istockphoto/admin/settings.php:28
+#: ../modules/depositphotos/admin/settings.php:18
+msgid "Login"
+msgstr ""
+
+#: ../modules/istockphoto/admin/settings.php:34
+#: ../modules/depositphotos/admin/settings.php:24
+msgid "Password"
+msgstr ""
+
+#: ../modules/istockphoto/admin/settings.php:46
+#, php-format
+msgid "You are logged as %s. You have %s credit(s)."
+msgstr ""
+
+#: ../modules/istockphoto/admin/settings.php:47
+#, php-format
+msgid "Subscription balance %s credit(s)."
+msgstr ""
+
+#: ../modules/istockphoto/admin/settings.php:49
+#: ../modules/depositphotos/admin/settings.php:34
+msgid "Buy more credits"
+msgstr ""
+
+#: ../modules/istockphoto/admin/settings.php:51
+#: ../modules/depositphotos/admin/settings.php:36
+msgid "Logout"
+msgstr ""
+
+#: ../modules/istockphoto/admin/settings.php:59
+msgid "Turn on affiliate links on the image and/or caption"
+msgstr ""
+
+#: ../modules/istockphoto/admin/settings.php:60
+msgid "Earn Affiliate Revenue"
+msgstr ""
+
+#: ../modules/istockphoto/admin/settings.php:65
+msgid "Alternative Affiliate ID:"
+msgstr ""
+
+#: ../modules/depositphotos/depositphotos.php:22
+msgid "Depositphotos"
+msgstr ""
+
+#: ../modules/depositphotos/admin/settings.php:33
+msgid "You are successfully logged."
+msgstr ""
+
+#: ../modules/fotolia/fotolia.php:21
+msgid "Fotolia"
+msgstr ""
+
+#: ../modules/fotolia/fotolia.php:204
+msgid "Service currently unavailable."
+msgstr ""
+
+#: ../modules/fotolia/fotolia.php:210
+msgid "Invalid Media ID."
+msgstr ""
+
+#: ../modules/fotolia/fotolia.php:216
+msgid "Invalid License Name."
+msgstr ""
+
+#: ../modules/fotolia/fotolia.php:222
+msgid "Insufficent Credit Value."
+msgstr ""
+
+#: ../modules/fotolia/fotolia.php:228
+msgid "Not enough download slots left."
+msgstr ""
+
+#: ../modules/fotolia/admin/settings.php:21
+#, php-format
+msgid "Fotolia Special Offer - 2 free credits for all new customers at %s"
+msgstr ""
+
+#: ../modules/fotolia/admin/settings.php:47
+msgid "Subscription is active."
+msgstr ""
+
+#: ../admin/top.php:3
+msgid "Microstock Photo Plugin"
+msgstr ""
+
+#: ../admin/tab_status.php:5
+#, php-format
+msgid "You are logged as %s."
+msgstr ""
+
+#: ../admin/tab_status.php:9
+#, php-format
+msgid "You have %s credit(s)."
+msgstr ""
+
+#: ../admin/tab_status.php:16
+msgid "You have active subscription."
+msgstr ""
+
+#: ../admin/tab_status.php:21
+msgid "You are not logged."
+msgstr ""
+
+#: ../admin/options.php:4
+#: ../admin/options.php:22
+#: ../admin/options.php:48
+msgid "Click to toggle"
+msgstr ""
+
+#: ../admin/options.php:5
+msgid "Help"
+msgstr ""
+
+#: ../admin/options.php:38
+#: ../admin/options.php:103
+msgid "Save"
+msgstr ""
+
+#: ../admin/options.php:54
+msgid "Default language"
+msgstr ""
+
+#: ../admin/options.php:56
+msgid "Default language used for search result."
+msgstr ""
+
+#: ../admin/options.php:68
+msgid "Image caption"
+msgstr ""
+
+#: ../admin/options.php:73
+msgid "Image title"
+msgstr ""
+
+#: ../admin/options.php:78
+msgid "Custom"
+msgstr ""
+
+#: ../admin/options.php:84
+msgid "Custom with copyright"
+msgstr ""
+
+#: ../admin/options.php:90
+msgid "Copyright notice (automatically generated)"
+msgstr ""
+
+#: ../admin/options.php:95
+msgid "None"
+msgstr ""
+
+#: ../admin/tab_paging.php:4
+msgid "&laquo; Prev"
+msgstr ""
+
+#: ../admin/tab_paging.php:59
+msgid "Next &raquo;"
+msgstr ""
+
+#: ../admin/tab_detail.php:14
+msgid "Size"
+msgstr ""
+
+#: ../admin/tab_detail.php:15
+msgid "Pixels"
+msgstr ""
+
+#: ../admin/tab_detail.php:16
+msgid "Price"
+msgstr ""
+
+#: ../admin/tab_detail.php:28
+msgid "credit"
+msgstr ""
+
+#: ../admin/tab_detail.php:28
+msgid "credits"
+msgstr ""
+
+#: ../admin/tab_detail.php:39
+msgid "Please select license"
+msgstr ""
+
+#: ../admin/tab.php:8
+msgid "Accept"
+msgstr ""
+
+#: ../admin/tab.php:9
+msgid "Reject"
+msgstr ""
+
+#: ../admin/tab.php:18
+msgid "Search"
+msgstr ""
+
+#: ../admin/tab.php:30
+msgid "Browse Categories"
+msgstr ""
+
+#: ../admin/tab.php:49
+msgid "Back"
+msgstr ""
+
